@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/beat-forge/clients/compare/web-v1.0.1...web-v1.1.0) (2023-08-17)
+
+
+### Features
+
+* **web:** more landingv2 stuff ([f5a9ed1](https://github.com/beat-forge/clients/commit/f5a9ed1d6719eb96ef24a78af05902e5345ceabc))
+
+
+### Bug Fixes
+
+* **web:** failing build due to 404s ([bfa3d49](https://github.com/beat-forge/clients/commit/bfa3d4928937d08ed542b7d86cee52b5bf4ea82d))
+* **web:** overflow issues ([6ab6504](https://github.com/beat-forge/clients/commit/6ab6504bc7141a36c9951f05cc64a7b915d01a29))
+* **web:** overflow issues on new landingv2 sections ([760433e](https://github.com/beat-forge/clients/commit/760433e6c53979dde705d3324cbe572c6e93a0f2))
+
 ## [1.0.1](https://github.com/beat-forge/clients/compare/web-v1.0.0...web-v1.0.1) (2023-08-15)
 
 
